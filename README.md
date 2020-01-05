@@ -1,8 +1,12 @@
 _________________PENJELASAN PERINTAH PROGRAM___________________
- T = "perintah untuk menambahkan data mahasiswa"
- U = "perintah untuk ubah(edit) data mahasiswa yang sudah ada"
- L = "perintah untuk menampilkan hasil masukan(data mahasiswa)"
- C = "perintah untuk mencari data mahaiswa yand sudah ada"
- K = "perintah untuk keluar dari program"
+
+
+ ketik "T" = "perintah untuk menambahkan data mahasiswa"
+ ketik "U" = "perintah untuk ubah(edit) data mahasiswa yang sudah ada"
+ ketik "L" = "perintah untuk menampilkan hasil masukan(data mahasiswa)"
+ ketik "C" = "perintah untuk mencari data mahaiswa yand sudah ada"
+ ketik "K" = "perintah untuk keluar dari program"
+
+
 
 ########################_________##############################
